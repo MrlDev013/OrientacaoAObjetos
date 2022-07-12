@@ -1,0 +1,7 @@
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\bin\Debug\Ex02_Salario_Imposto.exe.config
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\bin\Debug\Ex02_Salario_Imposto.exe
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\bin\Debug\Ex02_Salario_Imposto.pdb
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\obj\Debug\Ex02_Salario_Imposto.csproj.CoreCompileInputs.cache
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\obj\Debug\Ex02_Salario_Imposto.exe
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\obj\Debug\Ex02_Salario_Imposto.pdb
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex02_Salario_Imposto\Ex02_Salario_Imposto\obj\Debug\Ex02_Salario_Imposto.csprojAssemblyReference.cache

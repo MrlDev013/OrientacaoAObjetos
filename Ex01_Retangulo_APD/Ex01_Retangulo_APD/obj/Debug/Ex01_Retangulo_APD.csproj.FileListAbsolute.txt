@@ -1,0 +1,7 @@
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\bin\Debug\Ex01_Retangulo_APD.exe.config
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\bin\Debug\Ex01_Retangulo_APD.exe
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\bin\Debug\Ex01_Retangulo_APD.pdb
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\obj\Debug\Ex01_Retangulo_APD.csprojAssemblyReference.cache
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\obj\Debug\Ex01_Retangulo_APD.csproj.CoreCompileInputs.cache
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\obj\Debug\Ex01_Retangulo_APD.exe
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex01_Retangulo_APD\Ex01_Retangulo_APD\obj\Debug\Ex01_Retangulo_APD.pdb

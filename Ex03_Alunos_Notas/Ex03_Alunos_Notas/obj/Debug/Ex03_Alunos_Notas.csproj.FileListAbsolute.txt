@@ -1,0 +1,6 @@
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex03_Alunos_Notas\Ex03_Alunos_Notas\bin\Debug\Ex03_Alunos_Notas.exe.config
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex03_Alunos_Notas\Ex03_Alunos_Notas\bin\Debug\Ex03_Alunos_Notas.exe
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex03_Alunos_Notas\Ex03_Alunos_Notas\bin\Debug\Ex03_Alunos_Notas.pdb
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex03_Alunos_Notas\Ex03_Alunos_Notas\obj\Debug\Ex03_Alunos_Notas.csproj.CoreCompileInputs.cache
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex03_Alunos_Notas\Ex03_Alunos_Notas\obj\Debug\Ex03_Alunos_Notas.exe
+C:\Users\muril_zpzarky\Desktop\programsC#\ExerciciosClassesEObjs\Ex03_Alunos_Notas\Ex03_Alunos_Notas\obj\Debug\Ex03_Alunos_Notas.pdb
